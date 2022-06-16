@@ -1,7 +1,7 @@
 package javacode;
 
 public class ternary {
-    public static void main(String[]args){
+     public static void main(String[]args){
         int a=20;
         int b=30;
         int c=45;
