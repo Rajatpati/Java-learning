@@ -1,5 +1,3 @@
-package javacode;
-
 public class Methodtwo {
     static int myMethod(int x,int y)
   {
