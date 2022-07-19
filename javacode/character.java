@@ -4,10 +4,10 @@ public class character {
        /*you are provided with this table containing a character and
         its value given pone of this character as input
          you need to print its corresponding value 
-        P or p  -prepbytes
-        Z  or z   -zenith
-        E  or e  -expert coder
-         D  or d - data structure
+        P or p  -Prepbytes
+        Z  or z   -Zenith
+        E  or e  -Expert Coder
+         D  or d - Data Structure
         example 
         input 
          e
@@ -16,16 +16,16 @@ public class character {
         Scanner sc=new Scanner(System.in);
         char ch=sc.next().charAt(0);
         if (ch=='P'||ch=='p'){
-            System.out.println("prepbytes");
+            System.out.println("Prepbytes");
         }
             else if(ch=='Z'||ch=='z'){
-                System.out.println("zenith");
+                System.out.println("Zenith");
             }
             else if (ch=='E'||ch=='e'){
-                System.out.println("expert coder");
+                System.out.println("Expert Coder");
             }
             else if (ch=='D'||ch=='d'){
-                System.out.println("Data structure");
+                System.out.println("Data Structure");
 
             }
 
