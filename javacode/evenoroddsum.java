@@ -16,7 +16,7 @@ public class evenoroddsum{
                 oddsum=oddsum+num;
             }
             System.out.print("Enter your choice ");
-            choice =scn.next().charAt(0);/
+            choice =scn.next().charAt(0);
         }
         while (choice =='y' || choice =='Y');
         System.out.println("The sum of even is :"+evensum);

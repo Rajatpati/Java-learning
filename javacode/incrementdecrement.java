@@ -1,5 +1,3 @@
-package javacode;
-
 public class incrementdecrement {
     public static void main(String[]args){
         int a=20;
